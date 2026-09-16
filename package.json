@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch src/app.ts"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx watch src/app.ts",
+    "build": "tsc",
+    "start": "node dist/app.ts"
   },
   "repository": {
     "type": "git",
