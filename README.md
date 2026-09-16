@@ -1,4 +1,3 @@
-Claro. Aqui está o README sem emojis, mantendo a mesma estrutura e sem os códigos:
 
 # README – Desenvolvimento de API com POO e Persistência
 
